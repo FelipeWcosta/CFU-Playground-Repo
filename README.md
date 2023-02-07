@@ -1,2 +1,2 @@
 # CFU-Playground-Repo
- This repsitory has some erros and bugs with CFU Playground
+ Next step: Add the Quartus toolchain to the PATH
