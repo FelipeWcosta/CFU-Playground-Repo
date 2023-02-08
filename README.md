@@ -13,3 +13,7 @@
   ```
   dpkg -x libpng12-0_1.2.54-1ubuntu1.1_i386.deb libpng12
   ```
+In the bin Quartus folder you must to do:
+ ```
+ export LD_LIBRARY_PATH=/home/libpng12/lib/i368-linux-gnu
+ ```
