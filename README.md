@@ -17,7 +17,7 @@ In the `.bashrc` file include the follow line with your directory:
  ```
  export LD_LIBRARY_PATH=/home/fcost/libpng12/lib/i386-linux-gnu
  ```
-  5. If you are using the version 22.04 LTS of Ubuntu, problably you gonna have to do this;
+  5. If you are using the 22.04 LTS version of Ubuntu, you will probably have to do this;
   ```
   sudo apt-get install libfontconfig1:i386
   ```
