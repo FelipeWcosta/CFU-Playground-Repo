@@ -21,10 +21,10 @@ In the `.bashrc` file include the follow line with your directory:
   ```
   sudo apt-get install libfontconfig1:i386
   ```
-  6. You have to edit the `.bashrc` file again with:
+  6. You have to edit the `.bashrc` file again with;
   ```
   export PATH=/home/fcost/altera/13.0sp1/quartus/bin:$PATH
   ```
-  7. For more explanations, you can find [here](https://www.youtube.com/watch?v=T-Tg2uEuX6o) (**It's in portuguese**).
+  7. For more explanations, you can find [here](https://www.youtube.com/watch?v=T-Tg2uEuX6o) (**It's in portuguese**);
   
   8. The `fcost` is my username, You must change for your.
