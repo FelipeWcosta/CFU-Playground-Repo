@@ -27,4 +27,4 @@ In the `.bashrc` file include the follow line with your directory:
   ```
   7. For more explanations, you can find [here](https://www.youtube.com/watch?v=T-Tg2uEuX6o) (**It's in portuguese**);
   
-  8. The `fcost` is my username, You must change for your.
+  8. The `fcost` is my username, you must change for your.
