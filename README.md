@@ -6,3 +6,10 @@
    sudo apt install -y libstdc++6:i386 libc6:i386 libx11-dev:i386 libxext-dev:i386 libxau-dev:i386 libxdmcp-dev:i386 libfreetype6:i386 expat:i386 libxrender1:i386 libsm6:i386
    ```
   3. Download the Quartus II web version [here](https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html);
+  4. Install the library libpng12 with;
+  ```
+  wget https://launchpad.net/~ubuntu-security/+archive/ubuntu/ppa/+build/15108507/+files/libpng12-0_1.2.54-1ubuntu1.1_i386.deb
+  ```
+  ```
+  dpkg -x libpng12-0_1.2.54-1ubuntu1.1_i386.deb libpng12
+  ```
