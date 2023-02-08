@@ -13,7 +13,7 @@
   ```
   dpkg -x libpng12-0_1.2.54-1ubuntu1.1_i386.deb libpng12
   ```
-In the `.bashrc` file include the follow line:
+In the `.bashrc` file include the follow line with your directory:
  ```
  export LD_LIBRARY_PATH=/home/fcost/libpng12/lib/i386-linux-gnu
  ```
