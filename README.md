@@ -1,5 +1,6 @@
 # CFU-Playground-Repo
  Next step: Add the Quartus toolchain to the PATH
+### **Failed!!!**
   1. Update and upgrade of all packages;
   2. Install dependeces of 32 bits kernel; 
    ```
