@@ -15,5 +15,5 @@
   ```
 In the bin Quartus folder you must to do:
  ```
- export LD_LIBRARY_PATH=/home/libpng12/lib/i368-linux-gnu
+ export LD_LIBRARY_PATH=/home/fcost/libpng12/lib/i386-linux-gnu
  ```
