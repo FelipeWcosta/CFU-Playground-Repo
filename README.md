@@ -13,7 +13,12 @@
   ```
   dpkg -x libpng12-0_1.2.54-1ubuntu1.1_i386.deb libpng12
   ```
-In the bin Quartus folder you must to do:
+In the `.bashrc` file include the follow line:
  ```
  export LD_LIBRARY_PATH=/home/fcost/libpng12/lib/i386-linux-gnu
  ```
+  5. If you are using the version 22.04 LTS of Ubuntu, problably you gonna have to do this;
+  ```
+  sudo apt-get install libfontconfig1:i386
+  ```
+  6. For more explanations, you can find [here](https://www.youtube.com/watch?v=T-Tg2uEuX6o) (**It's in portuguese**).
