@@ -31,4 +31,5 @@
   8. The `fcost` is my username, you must change for your.
   
   ### **Worked!!!**
-  1. Just download the Quartus II Lite [here](https://www.intel.com/content/www/us/en/software-kit/757261/intel-quartus-prime-lite-edition-design-software-version-22-1-for-linux.html) and execute `sh setup.sh`
+  1. Just download the Quartus II Lite [here](https://www.intel.com/content/www/us/en/software-kit/757261/intel-quartus-prime-lite-edition-design-software-version-22-1-for-linux.html) and execute `sh setup.sh`;
+  2. Add the bin to the `.bashrc` file.
