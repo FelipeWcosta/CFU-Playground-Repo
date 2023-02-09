@@ -14,8 +14,8 @@
   ```
   dpkg -x libpng12-0_1.2.54-1ubuntu1.1_i386.deb libpng12
   ```
-In the `.bashrc` file include the follow line with your directory:
- ```
+  In the `.bashrc` file include the follow line with your directory:
+  ```
  export LD_LIBRARY_PATH=/home/fcost/libpng12/lib/i386-linux-gnu
  ```
   5. If you are using the 22.04 LTS version of Ubuntu, you will probably have to do this;
@@ -29,3 +29,6 @@ In the `.bashrc` file include the follow line with your directory:
   7. For more explanations, you can find [here](https://www.youtube.com/watch?v=T-Tg2uEuX6o) (**It's in portuguese**);
   
   8. The `fcost` is my username, you must change for your.
+  
+  ### **Worked!!!**
+  1. Just download the Quartus II Lite [here](https://www.intel.com/content/www/us/en/software-kit/757261/intel-quartus-prime-lite-edition-design-software-version-22-1-for-linux.html) and execute `sh setup.sh`
